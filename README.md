@@ -1,4 +1,4 @@
-# pacmen
+# MIT xPro Pac-Men Exercise
 MIT xPro pacmen assignment is a javascript application that adds pac-men objects to the browser that move around inside the borwser window
 
 ## -Click "Add pacman" button to add pacmen to the browser
