@@ -7,6 +7,6 @@ MIT xPro pacmen assignment is a javascript application that adds pac-men objects
 
 <img src="pacmen_ex.png" width="300px">
 
-This script could be updated to add more functionality such as different color objects being deployed or the speed at which the pac-men move about the browser window.
+This script could be updated to add more functionality such as different color objects being deployed or the speed at which the pac-men move about the browser window for future development.
 
 Copyright 2022
